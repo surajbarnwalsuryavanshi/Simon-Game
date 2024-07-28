@@ -45,11 +45,3 @@ p{
     text-align: justify;
     background-color: grey;
 }
-
-.press-start{
-    width: 6rem;
-    height: 2.5rem;
-    background-color: #000;
-    color: white;
-    box-shadow: 2px 2px 5px black;
-}
